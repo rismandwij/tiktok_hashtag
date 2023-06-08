@@ -15,7 +15,7 @@ Pada project kali ini dilakukan scraping pada website https://tiktokhashtags.com
 
 ## :clipboard:Dokumen
 
-Berikut contoh dokumen pada Mongo DB
+Berikut contoh dokumen pada Mongo DB :
 
 ```
 {
@@ -25,9 +25,13 @@ Berikut contoh dokumen pada Mongo DB
 "jumlah_video":{"$numberDouble":"3747346.0"},
 "total_views":{"$numberDouble":"63936086364.0"},"
 rata2_view_video":{"$numberDouble":"17062.0"},
-"time":"2023-06-08"}
+"time":"2023-06-08"
+}
 ```
 
 ## :computer:Visualisasi
 
 Berikut link visualisasi dari data yang telah di scraping :
+
+## :walking:Pengembang
+L.M. Risman Dwi Jumansyah (G1501222058)
