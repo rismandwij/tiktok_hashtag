@@ -9,7 +9,7 @@
 
 ## :blue_book: **Deskripsi**
 <p align="justify">
-hashtag adalah cara untuk mengategorikan konten pengguna agar mudah ditemukan oleh user di media sosial, khususnya di TikTok. Kategorisasi yang dibuat oleh hashtag dilakukan berdasarkan jenis, isi, maupun sesuatu yang tengah viral. Selain itu, penggunaan tagar tak hanya berlaku di TikTok saja, tetapi hashtag juga bisa Anda optimasi di Instagram, Facebook, dan Twitter. Hashtag diwakili dengan simbol tanda pagar (#) dan kemudian diikuti oleh satu frasa yang membentuk kalimat tertentu. Contohnya hashtag TikTok yang populer saat ini untuk bisnis, seperti #TipsBisnis dan #JualandiTikTok.
+hashtag adalah cara untuk mengkategorikan konten pengguna agar mudah ditemukan oleh user di media sosial, khususnya di TikTok. Kategorisasi yang dibuat oleh hashtag dilakukan berdasarkan jenis, isi, maupun sesuatu yang tengah viral. Selain itu, penggunaan tagar tak hanya berlaku di TikTok saja, tetapi hashtag juga bisa Anda optimasi di Instagram, Facebook, dan Twitter. Hashtag diwakili dengan simbol tanda pagar (#) dan kemudian diikuti oleh satu frasa yang membentuk kalimat tertentu. Contohnya hashtag TikTok yang populer saat ini untuk bisnis, seperti #TipsBisnis dan #JualandiTikTok.
 </p>
 
 <p align="justify">
