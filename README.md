@@ -1,4 +1,4 @@
-# **Tiktok Hashtag Scrape**
+# **Tiktok Hashtag Scraping**
 
 [![scrape_hashtag](https://github.com/rismandwij/tiktok_hashtag/actions/workflows/main.yml/badge.svg)](https://github.com/rismandwij/tiktok_hashtag/actions/workflows/main.yml)
 
