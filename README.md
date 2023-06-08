@@ -2,7 +2,10 @@
 
 [![scrape_hashtag](https://github.com/rismandwij/tiktok_hashtag/actions/workflows/main.yml/badge.svg)](https://github.com/rismandwij/tiktok_hashtag/actions/workflows/main.yml)
 
-<center><img src="https://kaydee.net/blog/wp-content/uploads/2022/07/what-is-a-hashtag-camel-case-1024x504.png" ...></center>
+<p align="center" width="100%">
+    <img width="70%" src="https://kaydee.net/blog/wp-content/uploads/2022/07/what-is-a-hashtag-camel-case-1024x504.png">
+</p>
+
 
 ## :blue_book:Deskripsi
 <p align="justify">
