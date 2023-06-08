@@ -7,7 +7,7 @@
 </p>
 
 
-## :blue_book: Deskripsi
+## :blue_book: **Deskripsi**
 <p align="justify">
 hashtag adalah cara untuk mengategorikan konten pengguna agar mudah ditemukan oleh user di media sosial, khususnya di TikTok. Kategorisasi yang dibuat oleh hashtag dilakukan berdasarkan jenis, isi, maupun sesuatu yang tengah viral. Selain itu, penggunaan tagar tak hanya berlaku di TikTok saja, tetapi hashtag juga bisa Anda optimasi di Instagram, Facebook, dan Twitter. Hashtag diwakili dengan simbol tanda pagar (#) dan kemudian diikuti oleh satu frasa yang membentuk kalimat tertentu. Contohnya hashtag TikTok yang populer saat ini untuk bisnis, seperti #TipsBisnis dan #JualandiTikTok.
 </p>
@@ -16,7 +16,7 @@ hashtag adalah cara untuk mengategorikan konten pengguna agar mudah ditemukan ol
 Pada project kali ini dilakukan scraping pada website https://tiktokhashtags.com/ ,dimana pada website ini menampilkan hashtag yang sering digunakan berdasarkan jenis atau topik konten pada aplikasi tiktok. Jenis konten seperti gaming, bisnis, edukasi dan lain sebagainya nantinya akan menghasilkan hashtag yang sering digunakan pada video yang paling banyak ditonton.
 </p>
 
-## :clipboard: Dokumen
+## :clipboard: **Dokumen**
 
 Berikut contoh dokumen pada Mongo DB :
 
@@ -32,9 +32,9 @@ rata2_view_video":{"$numberDouble":"17062.0"},
 }
 ```
 
-## :computer: Visualisasi
+## :computer: **Visualisasi**
 
 Berikut link visualisasi dari data yang telah di scraping :
 
-## :walking: Pengembang
+## :walking: **Pengembang**
 **L.M. Risman Dwi Jumansyah (G1501222058)**
