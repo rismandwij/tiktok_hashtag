@@ -13,7 +13,7 @@ hashtag adalah cara untuk mengategorikan konten pengguna agar mudah ditemukan ol
 </p>
 
 <p align="justify">
-Pada project kali ini dilakukan scraping pada website https://tiktokhashtags.com/hashtag/ ,dimana pada website ini menampilkan hashtag yang sering digunakan berdasarkan jenis atau topik konten pada aplikasi tiktok. Jenis konten seperti gaming, bisnis, edukasi dan lain sebagainya nantinya akan menghasilkan hashtag yang sering digunakan pada video yang paling banyak ditonton.
+Pada project kali ini dilakukan scraping pada website https://tiktokhashtags.com/ ,dimana pada website ini menampilkan hashtag yang sering digunakan berdasarkan jenis atau topik konten pada aplikasi tiktok. Jenis konten seperti gaming, bisnis, edukasi dan lain sebagainya nantinya akan menghasilkan hashtag yang sering digunakan pada video yang paling banyak ditonton.
 </p>
 
 ## :clipboard: Dokumen
