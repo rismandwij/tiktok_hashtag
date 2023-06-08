@@ -37,4 +37,4 @@ rata2_view_video":{"$numberDouble":"17062.0"},
 Berikut link visualisasi dari data yang telah di scraping :
 
 ## :walking: Pengembang
-L.M. Risman Dwi Jumansyah (G1501222058)
+**L.M. Risman Dwi Jumansyah (G1501222058)**
