@@ -2,7 +2,7 @@ name: scrape_hashtag
 
 on:
   schedule:
-    - cron: '0 7 */2 * *'
+    - cron: '0 7 * * *'
   workflow_dispatch:
     
 jobs:
