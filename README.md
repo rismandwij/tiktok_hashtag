@@ -34,7 +34,7 @@ rata2_view_video":{"$numberDouble":"17062.0"},
 
 ## :computer: **Visualisasi**
 
-Berikut link visualisasi dari data yang telah di scraping :
+Berikut link visualisasi dari data yang telah di scraping : https://rpubs.com/rismandwijs/1054178
 
 ## :walking: **Pengembang**
 **L.M. Risman Dwi Jumansyah (G1501222058)**
